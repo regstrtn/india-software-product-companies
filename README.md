@@ -8,11 +8,11 @@ Salary column denotes the **_lowest_** base salary that these companies offer fo
 **While adding a new company, try to keep the table sorted by NumberOfEmployees (descending order).**
 
 
-| # Company name | No. of Employees | Cities (upto 3) | SDE 1 base salary |
-| --- | --- | --- | --- | 
-| Amazon | | Bangalore, Hyderabad, Delhi | | 
-| Microsoft | | Bangalore, Hyderabad, Delhi | |
-| Flipkart | | Bangalore | | 
+| # Company name | No. of Employees | SDE 1 base salary | 
+| --- | --- | --- | 
+| Amazon | | | 
+| Microsoft | | |
+| Flipkart | | |
 | Myntra | | |
 | Zomato | | | 
 | Paytm | | | 
@@ -20,4 +20,6 @@ Salary column denotes the **_lowest_** base salary that these companies offer fo
 | PhonePe | | | 
 | Zoho | | | 
 | Adobe | | | 
+| Walmart | | | 
+| Target | | | 
 | 
