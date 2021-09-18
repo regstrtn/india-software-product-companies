@@ -8,21 +8,19 @@ Salary column denotes the **_lowest_** base salary that these companies offer fo
 #### Interview experiences link
 Add links to interview experiences posted on GeeksforGeeks or leetcode for these companies. 
 
-**While adding a new company, try to keep the table sorted by NumberOfEmployees (descending order).**
+**While adding or editing information, try to keep the table sorted by NumberOfEmployees (descending order).**
 
 
 | # Company name | No. of Employees | SDE 1 base salary | Interview experiences | 
 | --- | --- | --- | -- |
-| Amazon | | | [GeeksForGeeks](https://www.geeksforgeeks.org/tag/amazon/) | 
-| Microsoft | | |
-| Flipkart | | |
-| Myntra | | |
-| Zomato | | | 
-| Paytm | | | 
-| Cred | | | 
-| PhonePe | | | 
-| Zoho | | | 
-| Adobe | | | 
+| Amazon | >5000 | | [GeeksForGeeks](https://www.geeksforgeeks.org/tag/amazon/) | 
+| Microsoft | >5000 | |
+| Flipkart | >1000 | |
+| Myntra | >1000 | |
+| Zomato | >1000 | | 
+| Paytm | >1000 | | 
+| PhonePe | >1000 | | 
+| Adobe | >1000 | | 
 | Walmart | | | 
 | Target | | | 
 | Cisco | | | 
@@ -34,3 +32,79 @@ Add links to interview experiences posted on GeeksforGeeks or leetcode for these
 | Samsung | | |
 | Google | | | 
 | CureFit | | | 
+| Cred | | | 
+| 1 mg
+| Adobe
+| Airtel X Labs
+| AJIO
+| Amadeus Labs
+| Amagi
+| American Express
+| Apna
+| Apple
+| Arcesium
+| Atlassian
+| BlackBuck
+| BNY Mellon
+| Boeing
+| Browser Stack
+| Cadence
+| Cisco
+| Cred
+| DE Shaw
+| Delhivery
+| Directi
+| Dream 11
+| Expedia
+| EY
+| Fidelity Investments
+| Flipkart
+| GE Healthcare
+| Gojek
+| Goldman Sachs
+| Grofers
+| Groww
+| Hotstar
+| Inmobi
+| Intel
+| Intuit
+| Jaguar
+| Jio
+| JP Morgan
+| Khatabook
+| Licious
+| Linkedin
+| Mastercard
+| Micron
+| Microsoft
+| Morgan Stanley
+| Myntra
+| Ola
+| Oracle
+| Paypal
+| Postman
+| Publicis Sapient
+| Qualcomm
+| Razorpay
+| Saavan
+| Service Now
+| Shell
+| Siemens Healthineers
+| Swiggy
+| Synopsys
+| Target
+| Tekion Corp
+| Texas Instruments
+| Tower Research Capital
+| Uber
+| Udaan
+| Unacadamy
+| Upgrad
+| Upstox
+| Urban Company
+| Visa
+| VM ware
+| Wells Fargo
+| World Quant
+| Zerodha
+| Zoho | | | 
