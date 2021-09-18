@@ -38,7 +38,6 @@ Add links to interview experiences posted on GeeksforGeeks or leetcode for these
 | CureFit | | | 
 | Cred | | | 
 | 1 mg
-| Adobe
 | Airtel X Labs
 | AJIO
 | Amadeus Labs
@@ -50,8 +49,6 @@ Add links to interview experiences posted on GeeksforGeeks or leetcode for these
 | Boeing
 | Browser Stack
 | Cadence
-| Cisco
-| Cred
 | DE Shaw
 | Delhivery
 | Directi
@@ -85,7 +82,6 @@ Add links to interview experiences posted on GeeksforGeeks or leetcode for these
 | Service Now
 | Swiggy
 | Synopsys
-| Target
 | Tekion Corp
 | Texas Instruments
 | Tower Research Capital
