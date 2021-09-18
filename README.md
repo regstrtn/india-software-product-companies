@@ -13,13 +13,13 @@ Add links to interview experiences posted on GeeksforGeeks or leetcode for these
 
 | # Company name | No. of Employees | SDE 1 base salary | Interview experiences | 
 | --- | --- | --- | -- |
-| Amazon | >5000 | | [GeeksForGeeks](https://www.geeksforgeeks.org/tag/amazon/) | 
-| Microsoft | >5000 | |
-| Flipkart | >1000 | |
-| Myntra | >1000 | |
+| Amazon | >5000 | 13 LPA | [GeeksForGeeks](https://www.geeksforgeeks.org/tag/amazon/) | 
+| Microsoft | >5000 | 13 LPA |
+| Flipkart | >1000 | 13 LPA |
+| Myntra | >1000 | 13 LPA |
 | Zomato | >1000 | | 
 | Paytm | >1000 | | 
-| PhonePe | >1000 | | 
+| PhonePe | >1000 | 13 LPA | 
 | Adobe | >1000 | | 
 | Walmart | | | 
 | Target | | | 
@@ -27,7 +27,7 @@ Add links to interview experiences posted on GeeksforGeeks or leetcode for these
 | SAP | | | 
 | Barclays | | | 
 | Morgan Stanley | | | 
-| Goldman Sachs | | | 
+| Goldman Sachs | 18 LPA | | 
 | HSBC | | | 
 | Samsung | | |
 | Google | | | 
