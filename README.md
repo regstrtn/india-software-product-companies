@@ -1,6 +1,6 @@
 # List of product based software companies in India
 
-This repository contains a crowdsourced list of all product based software companies in India. While every attempt is made to keep the information as accurate as possible, there could be inaccuracies. Please point them out and send a pull request to correct them if possible. 
+This repository contains a crowdsourced list of all product based software companies in India. While every attempt is made to keep the information as accurate as possible, there could be inaccuracies. Please point them out (create an Issue) or send a pull request to correct them if possible. 
 
 #### Salary information 
 Salary column denotes the **_lowest_** base salary that these companies offer for SDE1 position. This is the fixed cash component, stocks and bonus are not included. 
