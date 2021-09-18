@@ -27,10 +27,10 @@ Add links to interview experiences posted on GeeksforGeeks or leetcode for these
 | SAP | | | 
 | Barclays | | | 
 | Morgan Stanley | | | 
-| Goldman Sachs | 18 LPA | | 
 | HSBC | | | 
 | Samsung | | |
 | Google | | | 
+| Goldman Sachs | | 20 LPA | 
 | CureFit | | | 
 | Cred | | | 
 | 1 mg
