@@ -6,7 +6,7 @@ While we try to keep the information as accurate as possible, there could be ina
 ### Salary information 
 Salary column denotes the *_lowest_* base salary that these companies offer for SDE1 position - stocks and bonus are not included. The reason for reporting the lowest base salary is because this list is primarily intended for students or people with <2 years of experience. These people will most likely be applying for SDE 1 position. 
 
-# Company name | # Employees | # Cities (upto 3) | # SDE 1 base salary 
---- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
-Amazon | | Bangalore, Hyderabad, Delhi | |
-Microsoft | | Bangalore, Hyderabad, Delhi | |
+| # Company name | # Employees | # Cities (upto 3) | # SDE 1 base salary |
+| --- | --- | --- | --- | 
+| Amazon | | Bangalore, Hyderabad, Delhi | | 
+| Microsoft | | Bangalore, Hyderabad, Delhi | |
