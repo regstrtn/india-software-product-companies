@@ -12,7 +12,7 @@ Add links to interview experiences posted on GeeksforGeeks or leetcode for these
 
 
 | # Company name | No. of Employees | SDE 1 base salary | Interview experiences | 
-| --- | --- | --- | 
+| --- | --- | --- | -- |
 | Amazon | | | [GeeksForGeeks](https://www.geeksforgeeks.org/tag/amazon/) | 
 | Microsoft | | |
 | Flipkart | | |
@@ -29,5 +29,8 @@ Add links to interview experiences posted on GeeksforGeeks or leetcode for these
 | Morgan Stanley | | | 
 | Goldman Sachs | | | 
 | HSBC | | | 
-| Amadeus | | | 
+| Samsung | | |
+| AppDynamics | | | 
+| CureFit | | | 
+
 
