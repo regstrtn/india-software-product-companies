@@ -58,7 +58,7 @@ Add links to interview experiences posted on GeeksforGeeks or leetcode for these
 | Directi
 | Dream 11
 | Expedia
-| EY
+| EY (Ernst & Young)
 | Fidelity Investments
 | Flipkart
 | GE Healthcare
@@ -90,8 +90,6 @@ Add links to interview experiences posted on GeeksforGeeks or leetcode for these
 | Razorpay
 | Saavan
 | Service Now
-| Shell
-| Siemens Healthineers
 | Swiggy
 | Synopsys
 | Target
