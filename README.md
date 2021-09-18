@@ -5,12 +5,15 @@ This repository contains a crowdsourced list of all product based software compa
 #### Salary information 
 Salary column denotes the **_lowest_** base salary that these companies offer for SDE1 position - stocks and bonus are not included. The reason for reporting the lowest base salary is because this list is primarily intended for students or people with <2 years of experience. These people will most likely be applying for SDE 1 position. 
 
+#### Interview experiences link
+Add links to interview experiences posted on GeeksforGeeks or leetcode for these companies. 
+
 **While adding a new company, try to keep the table sorted by NumberOfEmployees (descending order).**
 
 
-| # Company name | No. of Employees | SDE 1 base salary | 
+| # Company name | No. of Employees | SDE 1 base salary | Interview experiences | 
 | --- | --- | --- | 
-| Amazon | | | 
+| Amazon | | | [GeeksForGeeks](https://www.geeksforgeeks.org/tag/amazon/) | 
 | Microsoft | | |
 | Flipkart | | |
 | Myntra | | |
@@ -22,4 +25,9 @@ Salary column denotes the **_lowest_** base salary that these companies offer fo
 | Adobe | | | 
 | Walmart | | | 
 | Target | | | 
-| 
+| Barclays | | | 
+| Morgan Stanley | | | 
+| Goldman Sachs | | | 
+| HSBC | | | 
+| Amadeus | | | 
+
