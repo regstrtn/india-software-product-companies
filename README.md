@@ -3,7 +3,7 @@
 This repository contains a crowdsourced list of all product based software companies in India. While every attempt is made to keep the information as accurate as possible, there could be inaccuracies. Please point them out and send a pull request to correct them if possible. 
 
 #### Salary information 
-Salary column denotes the **_lowest_** base salary that these companies offer for SDE1 position - stocks and bonus are not included. 
+Salary column denotes the **_lowest_** base salary that these companies offer for SDE1 position. This is the fixed cash component, stocks and bonus are not included. 
 
 The reason for reporting the lowest base salary is because this list is primarily intended for students or people with <2 years of experience. These people will mostly be applying for SDE 1 position. 
 
