@@ -27,11 +27,13 @@ Add links to interview experiences posted on GeeksforGeeks or leetcode for these
 | Target | | | 
 | Cisco | | | 
 | SAP | | | 
+| Oracle | | |
 | Barclays | | | 
 | Morgan Stanley | | | 
 | HSBC | | | 
 | Samsung | | |
 | Google | | | 
+| Apple | | 13 LPA |
 | Goldman Sachs | | 20 LPA | 
 | CureFit | | | 
 | Cred | | | 
@@ -40,10 +42,7 @@ Add links to interview experiences posted on GeeksforGeeks or leetcode for these
 | Airtel X Labs
 | AJIO
 | Amadeus Labs
-| Amagi
 | American Express
-| Apna
-| Apple
 | Arcesium
 | Atlassian
 | BlackBuck
@@ -60,10 +59,8 @@ Add links to interview experiences posted on GeeksforGeeks or leetcode for these
 | Expedia
 | EY (Ernst & Young)
 | Fidelity Investments
-| Flipkart
 | GE Healthcare
 | Gojek
-| Goldman Sachs
 | Grofers
 | Groww
 | Hotstar
@@ -78,11 +75,7 @@ Add links to interview experiences posted on GeeksforGeeks or leetcode for these
 | Linkedin
 | Mastercard
 | Micron
-| Microsoft
-| Morgan Stanley
-| Myntra
 | Ola
-| Oracle
 | Paypal
 | Postman
 | Publicis Sapient
