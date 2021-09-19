@@ -4,6 +4,8 @@
 
 This repository contains a crowdsourced list of all product based software companies in India. While every attempt is made to keep the information as accurate as possible, there could be inaccuracies. Please point them out (create an Issue) or send a pull request to correct them if possible. 
 
+Check out this [cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) if you are not familiar with Readme markdown syntax. 
+
 #### Salary information 
 Salary column denotes the **_lowest_** base salary that these companies offer for SDE1 position. This is the fixed cash component, stocks and bonus are not included. 
 
