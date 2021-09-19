@@ -51,6 +51,7 @@ Add links to interview experiences posted on GeeksforGeeks or leetcode for these
 | Cadence
 | DE Shaw
 | Delhivery
+| Dell
 | Directi
 | Dream 11
 | Expedia
@@ -64,26 +65,27 @@ Add links to interview experiences posted on GeeksforGeeks or leetcode for these
 | Inmobi
 | Intel
 | Intuit
-| Jaguar
 | Jio
 | JP Morgan
 | Khatabook
 | Licious
 | Linkedin
 | Mastercard
-| Micron
 | Ola
+| Oyo
 | Paypal
 | Postman
 | Publicis Sapient
 | Qualcomm
 | Razorpay
+| Robert Bosch
 | Saavan
 | Service Now
 | Swiggy
 | Synopsys
 | Tekion Corp
 | Texas Instruments
+| Toshiba
 | Tower Research Capital
 | Uber
 | Udaan
