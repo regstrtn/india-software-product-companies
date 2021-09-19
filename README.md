@@ -1,5 +1,7 @@
 # List of product based software companies in India
 
+**_Please create an Issue or a pull request to fill in the missing details._**
+
 This repository contains a crowdsourced list of all product based software companies in India. While every attempt is made to keep the information as accurate as possible, there could be inaccuracies. Please point them out (create an Issue) or send a pull request to correct them if possible. 
 
 #### Salary information 
