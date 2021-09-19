@@ -45,6 +45,7 @@ Add links to interview experiences posted on GeeksforGeeks or leetcode for these
 | CureFit | | | 
 | Cred | | | 
 | 1 mg
+| Airbase | | |
 | Airtel X Labs
 | AJIO
 | Amadeus Labs
