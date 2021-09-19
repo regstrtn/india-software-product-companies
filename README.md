@@ -10,7 +10,7 @@ The reason for reporting the lowest base salary is because this list is primaril
 #### Interview experiences link
 Add links to interview experiences posted on GeeksforGeeks or leetcode for these companies. 
 
-[European software companies that are known to hire directly from India.](european_software_companies.md)
+[European software companies that are known to hire directly from India.](european-software-companies.md)
 
 **While adding or editing information, try to keep the table sorted by NumberOfEmployees (descending order).**
 
